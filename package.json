@@ -1,0 +1,22 @@
+{
+  "name": "ping-render-services",
+  "version": "1.0.0",
+  "description": "To ping my render services",
+  "main": "ping-services.js",
+  "scripts": {
+    "test": "/ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LodeSnaet/ping-render-services.git"
+  },
+  "author": "LodeSnaet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LodeSnaet/ping-render-services/issues"
+  },
+  "homepage": "https://github.com/LodeSnaet/ping-render-services#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
